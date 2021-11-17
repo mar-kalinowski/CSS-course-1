@@ -1,8 +1,7 @@
 #header{
-position: absolute
+position: absolute;
 top: 0;
 left: 0;
-
 }
 
 #header h1{
@@ -11,5 +10,4 @@ left: 0;
 
 p{
 font-size: 12px;
-
 }
